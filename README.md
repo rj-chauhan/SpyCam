@@ -15,7 +15,7 @@ allprojects {
 ```
 ```
 dependencies {
-    compile 'com.kevalpatel2106:hiddencamera:1.3.3'
+    implementation 'com.github.Rj-Innocent-Coder:SpyCam:1.0'
 }
 ```
 ## How to integrate?
