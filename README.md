@@ -1,6 +1,4 @@
 # SpyCam
-** Version 1.0 **
-
 
 ## What is this library for?
 This library allows application to take the picture using the device camera without showing the preview of it. Any application can capture the image from front camera in the background.
