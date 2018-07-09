@@ -41,7 +41,7 @@ Step-1 : Create Instance of SpyService
 Step-2 : Initialize Instance 
 
      spyService = SpyServiceImp.getInstance(this,"Spy");
- in This you have to pass to parameter first is Activity and other is the name of directory that will be create by librery in sdcard with image captured and also it will store image name is ```System.currentTimeMillis(); ```
+ in This you have to pass two parameter first is Activity and other is the name of directory that will be create by librery in sdcard with image captured and also it will store image name is ```System.currentTimeMillis(); ```
  
  Step-3 : Implement ```SpyListener``` and override method.
  
