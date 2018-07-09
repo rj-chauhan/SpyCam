@@ -1,5 +1,17 @@
 # SpyCam
 
+![]()
+<img src="http://rj-innocent-coder.co.nf/images/github/version.svg">
+![]()
+<img src="http://rj-innocent-coder.co.nf/images/github/size.svg">
+![]()
+<img src="http://rj-innocent-coder.co.nf/images/github/api.svg">
+![]()
+<a href="https://www.paypal.me/InnocentCoder"><img src="http://rj-innocent-coder.co.nf/images/github/donate.svg"></a>
+
+
+<a href="https://developer.android.com/"><img src="https://github.com/Rj-Innocent-Coder/SpyCam/blob/master/app/src/main/res/drawable-v24/Android_Java%402x.png"></a>
+
 ## What is this library for?
 This library allows application to take the picture using the device camera without showing the preview of it. Any application can capture the image from front camera in the background.
 
