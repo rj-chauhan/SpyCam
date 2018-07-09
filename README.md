@@ -47,7 +47,11 @@ Step-2 : Initialize Instance
  
     @Override
     public void onCaptureDone(String s, byte[] bytes) {
-        Toast.makeText(this, "Captured", Toast.LENGTH_SHORT).show();   
+        Toast.makeText(this, "Captured", Toast.LENGTH_SHORT).show();  
+	Bitmap bmp = BitmapFactory.decodeByteArray(byteArray, 0, byteArray.length);
+	ImageView image = (ImageView) findViewById(R.id.imageView1);
+	image.setImageBitmap(Bitmap.createScaledBitmap(bmp, image.getWidth(),
+                image.getHeight(), false));
     }
 
     @Override
