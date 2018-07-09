@@ -15,6 +15,9 @@
 ## What is this library for?
 This library allows application to take the picture using the device camera without showing the preview of it. Any application can capture the image from front camera in the background.
 
+## Demo
+![]()
+<img height="350px" width="200px" src="./demo.gif"></img>
 ## Gradle Dependency:
 ```
 allprojects {
